@@ -95,7 +95,7 @@ print("Matrice de distortion obtenue :")
 print(new_dist)
 
 #Enregitrement de la dernière photo prise
-cv2.imwrite('echequier_non_corige.jpg', frame)
+cv2.imwrite('echequier_non_corrige.jpg', frame)
 
 # Correction d'image avec les nouvelles matrices
 # Calcul de la nouvelle matrice de correction et la zone d'intérêt liée à cette matrice
@@ -105,4 +105,7 @@ nouvelle_correction = cv2.undistort(frame, new_mtx, new_dist, None, new_cameramt
 # Rognage de l'image pour faire correspondre l'image à la correction
 nouvelle_correction = nouvelle_correction[new_zoi[1]:new_zoi[1]+new_zoi[3], new_zoi[0]:new_zoi[0]+new_zoi[2]]
 # Affichage de l'image corrigée
-cv2.imwrite('echequier_non_corige.jpg', nouvelle_correction)
+cv2.imwrite('echequier_corrige.jpg', nouvelle_correction)
+
+# release camera
+cap.release()

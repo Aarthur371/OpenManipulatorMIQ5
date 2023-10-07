@@ -1,27 +1,31 @@
 import cv2
+import os
+import numpy as np
+
+horizontal_res = 640
+vertical_res = 480
 
 # open camera
 cap = cv2.VideoCapture('/dev/video0', cv2.CAP_V4L)
+cap.set(cv2.CAP_PROP_FRAME_WIDTH, horizontal_res)
+cap.set(cv2.CAP_PROP_FRAME_HEIGHT, vertical_res)
 
-# set dimensions
-cap.set(cv2.CAP_PROP_FRAME_WIDTH, 640)
-cap.set(cv2.CAP_PROP_FRAME_HEIGHT, 480)
+# Camera calibration path
+calib_camera_path = os.getcwd() + "/config_camera/" + str(horizontal_res) + "x" + str(vertical_res) + "/"
+camera_matrix = np.loadtxt(calib_camera_path+'cameraMatrix.txt', delimiter=',')
+camera_distortion = np.loadtxt(calib_camera_path+'cameraDistortion.txt', delimiter=',')
+matrice_camera_corrigee, ROI_camera_corrigee = cv2.getOptimalNewCameraMatrix(camera_matrix, camera_distortion, (horizontal_res, vertical_res), 1, (horizontal_res, vertical_res))
 
-# take frame
+# Prise de la photo
 ret, frame = cap.read()
-
-criteria = (cv2.TERM_CRITERIA_EPS + cv2.TERM_CRITERIA_MAX_ITER, 30, 0.001)
-# Conversion de l'image en couleur en image de nuances de gris
-gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
-# Récupération des coins de l'échiquier
-ret, corners = cv2.findChessboardCorners(gray, (7,7), None)      
-
-# Si les coins ont été détectés on les trace et on les affiche pour l'utilisateur
-corners2 = cv2.cornerSubPix(gray, corners, (11,11), (-1,-1), criteria)
-cv2.drawChessboardCorners(frame, (7,7), corners2, ret)
+# Correction de la photo avec les matrices de correction
+photo_corrigee = cv2.undistort(frame, camera_matrix, camera_distortion, None, matrice_camera_corrigee)
+# Rognage de la matrice pour ne garder que la partie corrigée
+photo_corrigee = photo_corrigee[ROI_camera_corrigee[1]:ROI_camera_corrigee[1]+ROI_camera_corrigee[3],
+                                ROI_camera_corrigee[0]:ROI_camera_corrigee[0]+ROI_camera_corrigee[2]]
 
 
 # write frame to file
-cv2.imwrite('image.jpg', frame)
+cv2.imwrite('image_corrigee.jpg', photo_corrigee)
 # release camera
 cap.release()
