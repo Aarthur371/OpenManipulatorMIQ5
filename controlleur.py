@@ -27,8 +27,8 @@ def set_position_client(x, y, z, time):
         print("Service call failed: %s"%e)
         return False
 
-horizontal_res = 640
-vertical_res = 480
+horizontal_res = 1920
+vertical_res = 1440
 
 try:
     while(True):
