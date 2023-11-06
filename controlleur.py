@@ -37,9 +37,9 @@ cap.set(cv2.CAP_PROP_FRAME_HEIGHT, vertical_res)
 
 try:
     while(True):
-        reponse = input("Prise de photo -> p nom_photo\nDéplacemet du robot -> d x y z")
+        reponse = input("Prise de photo -> p nom_photo\nDéplacemet du robot -> d x y z\n")
         if reponse != "":
-            tab_reponse = reponse.split(reponse, ' ')
+            tab_reponse = reponse.split(' ')
             if tab_reponse[0] == "p":
                 ret, frame = cap.read()
                 cv2.imwrite(tab_reponse[1] + '.jpg', frame)
