@@ -45,7 +45,7 @@ try:
                 cv2.imwrite(tab_reponse[1] + '.jpg', frame)
                 print("Photo prise")
             elif tab_reponse[0] == "d":
-                response = set_position_client(tab_reponse[1]/100, tab_reponse[2]/100, tab_reponse[3]/100, 1)
+                response = set_position_client(float(tab_reponse[1])/100, float(tab_reponse[2])/100, float(tab_reponse[3])/100, 1)
             else:
                 print("Commande non reconnue")
         else:
