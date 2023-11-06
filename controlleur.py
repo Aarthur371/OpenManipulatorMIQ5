@@ -41,6 +41,10 @@ try:
         if reponse != "":
             tab_reponse = reponse.split(' ')
             if tab_reponse[0] == "p":
+                # open camera
+                cap = cv2.VideoCapture('/dev/video0', cv2.CAP_V4L)
+                cap.set(cv2.CAP_PROP_FRAME_WIDTH, horizontal_res)
+                cap.set(cv2.CAP_PROP_FRAME_HEIGHT, vertical_res)
                 ret, frame = cap.read()
                 cv2.imwrite(tab_reponse[1] + '.jpg', frame)
                 print("Photo prise")
