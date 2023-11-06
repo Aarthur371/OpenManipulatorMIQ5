@@ -30,11 +30,6 @@ def set_position_client(x, y, z, time):
 horizontal_res = 640
 vertical_res = 480
 
-# open camera
-cap = cv2.VideoCapture('/dev/video0', cv2.CAP_V4L)
-cap.set(cv2.CAP_PROP_FRAME_WIDTH, horizontal_res)
-cap.set(cv2.CAP_PROP_FRAME_HEIGHT, vertical_res)
-
 try:
     while(True):
         reponse = input("Prise de photo -> p nom_photo\nDéplacemet du robot (en cm) -> d x y z\n")
