@@ -7,7 +7,7 @@ import os
 import numpy as np
 
 def set_position_client(x, y, z, time):
-    service_name = '/open_manipulator/goal_task_space_path_position_only'
+    service_name = '/goal_task_space_path_position_only'
 
     rospy.wait_for_service(service_name)
 
@@ -37,14 +37,15 @@ cap.set(cv2.CAP_PROP_FRAME_HEIGHT, vertical_res)
 
 try:
     while(True):
-        reponse = input("Prise de photo -> p nom_photo\nDéplacemet du robot -> d x y z\n")
+        reponse = input("Prise de photo -> p nom_photo\nDéplacemet du robot (en cm) -> d x y z\n")
         if reponse != "":
             tab_reponse = reponse.split(' ')
             if tab_reponse[0] == "p":
                 ret, frame = cap.read()
                 cv2.imwrite(tab_reponse[1] + '.jpg', frame)
+                print("Photo prise")
             elif tab_reponse[0] == "d":
-                response = set_position_client(tab_reponse[1], tab_reponse[2], tab_reponse[3], 1)
+                response = set_position_client(tab_reponse[1]/100, tab_reponse[2]/100, tab_reponse[3]/100, 1)
             else:
                 print("Commande non reconnue")
         else:
