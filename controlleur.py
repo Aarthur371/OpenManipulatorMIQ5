@@ -1,10 +1,9 @@
-
-import sys
+#import sys
 import rospy
-from open_manipulator_msgs.srv import *
 import cv2
-import os
-import numpy as np
+#import os
+#import numpy as np
+from open_manipulator_msgs.srv import *
 
 def set_position_client(x, y, z, time):
     service_name = '/goal_task_space_path_position_only'
@@ -29,6 +28,10 @@ def set_position_client(x, y, z, time):
 
 horizontal_res = 1920
 vertical_res = 1440
+# open camera
+cap = cv2.VideoCapture('/dev/video0', cv2.CAP_V4L)
+cap.set(cv2.CAP_PROP_FRAME_WIDTH, horizontal_res)
+cap.set(cv2.CAP_PROP_FRAME_HEIGHT, vertical_res)
 
 try:
     while(True):
@@ -36,10 +39,6 @@ try:
         if reponse != "":
             tab_reponse = reponse.split(' ')
             if tab_reponse[0] == "p":
-                # open camera
-                cap = cv2.VideoCapture('/dev/video0', cv2.CAP_V4L)
-                cap.set(cv2.CAP_PROP_FRAME_WIDTH, horizontal_res)
-                cap.set(cv2.CAP_PROP_FRAME_HEIGHT, vertical_res)
                 ret, frame = cap.read()
                 cv2.imwrite(tab_reponse[1] + '.jpg', frame)
                 print("Photo prise")

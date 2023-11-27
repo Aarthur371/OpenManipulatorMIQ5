@@ -1,0 +1,7378 @@
+pose: 
+  position: 
+    x: 0.11089095247943871
+    y: -0.00015169694440642269
+    z: 0.1499794691983626
+  orientation: 
+    x: 0.000538168460724666
+    y: 0.7016624255905083
+    z: -0.0005464877763195737
+    w: 0.7125091243207083
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11089095247943871
+    y: -0.00015169694440642269
+    z: 0.1499794691983626
+  orientation: 
+    x: 0.000538168460724666
+    y: 0.7016624255905083
+    z: -0.0005464877763195737
+    w: 0.7125091243207083
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11089095247943871
+    y: -0.00015169694440642269
+    z: 0.1499794691983626
+  orientation: 
+    x: 0.000538168460724666
+    y: 0.7016624255905083
+    z: -0.0005464877763195737
+    w: 0.7125091243207083
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11089095247943871
+    y: -0.00015169694440642269
+    z: 0.1499794691983626
+  orientation: 
+    x: 0.000538168460724666
+    y: 0.7016624255905083
+    z: -0.0005464877763195737
+    w: 0.7125091243207083
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11089095247943871
+    y: -0.00015169694440642269
+    z: 0.1499794691983626
+  orientation: 
+    x: 0.000538168460724666
+    y: 0.7016624255905083
+    z: -0.0005464877763195737
+    w: 0.7125091243207083
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11089095247943871
+    y: -0.00015169694440642269
+    z: 0.1499794691983626
+  orientation: 
+    x: 0.000538168460724666
+    y: 0.7016624255905083
+    z: -0.0005464877763195737
+    w: 0.7125091243207083
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11089106882956393
+    y: 0.0
+    z: 0.1499794691983626
+  orientation: 
+    x: 0.0
+    y: 0.7016626319755442
+    z: 0.0
+    w: 0.7125093338961618
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11089106882956393
+    y: 0.0
+    z: 0.1499794691983626
+  orientation: 
+    x: 0.0
+    y: 0.7016626319755442
+    z: 0.0
+    w: 0.7125093338961618
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11089106882956393
+    y: 0.0
+    z: 0.1499794691983626
+  orientation: 
+    x: 0.0
+    y: 0.7016626319755442
+    z: 0.0
+    w: 0.7125093338961618
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11089106882956393
+    y: 0.0
+    z: 0.1499794691983626
+  orientation: 
+    x: 0.0
+    y: 0.7016626319755442
+    z: 0.0
+    w: 0.7125093338961618
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11089106882956393
+    y: 0.0
+    z: 0.1499794691983626
+  orientation: 
+    x: 0.0
+    y: 0.7016626319755442
+    z: 0.0
+    w: 0.7125093338961618
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11089106882956393
+    y: 0.0
+    z: 0.1499794691983626
+  orientation: 
+    x: 0.0
+    y: 0.7016626319755442
+    z: 0.0
+    w: 0.7125093338961618
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11089106882956393
+    y: 0.0
+    z: 0.1499794691983626
+  orientation: 
+    x: 0.0
+    y: 0.7016626319755442
+    z: 0.0
+    w: 0.7125093338961618
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11089106882956393
+    y: 0.0
+    z: 0.1499794691983626
+  orientation: 
+    x: 0.0
+    y: 0.7016626319755442
+    z: 0.0
+    w: 0.7125093338961618
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11089106882956393
+    y: 0.0
+    z: 0.1499794691983626
+  orientation: 
+    x: 0.0
+    y: 0.7016626319755442
+    z: 0.0
+    w: 0.7125093338961618
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11089106882956393
+    y: 0.0
+    z: 0.1499794691983626
+  orientation: 
+    x: 0.0
+    y: 0.7016626319755442
+    z: 0.0
+    w: 0.7125093338961618
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11089106882956393
+    y: 0.0
+    z: 0.1499794691983626
+  orientation: 
+    x: 0.0
+    y: 0.7016626319755442
+    z: 0.0
+    w: 0.7125093338961618
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11089106882956393
+    y: 0.0
+    z: 0.1499794691983626
+  orientation: 
+    x: 0.0
+    y: 0.7016626319755442
+    z: 0.0
+    w: 0.7125093338961618
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11089095247943871
+    y: -0.00015169694440642269
+    z: 0.1499794691983626
+  orientation: 
+    x: 0.000538168460724666
+    y: 0.7016624255905083
+    z: -0.0005464877763195737
+    w: 0.7125091243207083
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11089095247943871
+    y: -0.00015169694440642269
+    z: 0.1499794691983626
+  orientation: 
+    x: 0.000538168460724666
+    y: 0.7016624255905083
+    z: -0.0005464877763195737
+    w: 0.7125091243207083
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11089095247943871
+    y: -0.00015169694440642269
+    z: 0.1499794691983626
+  orientation: 
+    x: 0.000538168460724666
+    y: 0.7016624255905083
+    z: -0.0005464877763195737
+    w: 0.7125091243207083
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11089095247943871
+    y: -0.00015169694440642269
+    z: 0.1499794691983626
+  orientation: 
+    x: 0.000538168460724666
+    y: 0.7016624255905083
+    z: -0.0005464877763195737
+    w: 0.7125091243207083
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11089095247943871
+    y: -0.00015169694440642269
+    z: 0.1499794691983626
+  orientation: 
+    x: 0.000538168460724666
+    y: 0.7016624255905083
+    z: -0.0005464877763195737
+    w: 0.7125091243207083
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11089095247943871
+    y: -0.00015169694440642269
+    z: 0.1499794691983626
+  orientation: 
+    x: 0.000538168460724666
+    y: 0.7016624255905083
+    z: -0.0005464877763195737
+    w: 0.7125091243207083
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11067135457861825
+    y: -0.00015136008517190923
+    z: 0.150288502674227
+  orientation: 
+    x: 0.0005377491544808
+    y: 0.7011157353668931
+    z: -0.0005469003827395383
+    w: 0.7130470793340079
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11067135457861825
+    y: -0.00015136008517190923
+    z: 0.150288502674227
+  orientation: 
+    x: 0.0005377491544808
+    y: 0.7011157353668931
+    z: -0.0005469003827395383
+    w: 0.7130470793340079
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11067135457861825
+    y: -0.00015136008517190923
+    z: 0.150288502674227
+  orientation: 
+    x: 0.0005377491544808
+    y: 0.7011157353668931
+    z: -0.0005469003827395383
+    w: 0.7130470793340079
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11089106882956393
+    y: 0.0
+    z: 0.1499794691983626
+  orientation: 
+    x: 0.0
+    y: 0.7016626319755442
+    z: 0.0
+    w: 0.7125093338961618
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11089106882956393
+    y: 0.0
+    z: 0.1499794691983626
+  orientation: 
+    x: 0.0
+    y: 0.7016626319755442
+    z: 0.0
+    w: 0.7125093338961618
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11089106882956393
+    y: 0.0
+    z: 0.1499794691983626
+  orientation: 
+    x: 0.0
+    y: 0.7016626319755442
+    z: 0.0
+    w: 0.7125093338961618
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077823720648562
+    y: 0.0
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0
+    y: 0.7011159415911269
+    z: 0.0
+    w: 0.713047289067694
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
+pose: 
+  position: 
+    x: 0.11077812098911226
+    y: -0.00015152386292741776
+    z: 0.15013107864418346
+  orientation: 
+    x: 0.0005377491544808001
+    y: 0.7011157353668932
+    z: -0.0005469003827395383
+    w: 0.7130470793340078
+max_accelerations_scaling_factor: 0.0
+max_velocity_scaling_factor: 0.0
+tolerance: 0.0
+---
