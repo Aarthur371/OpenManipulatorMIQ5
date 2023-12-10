@@ -1,8 +1,5 @@
-#import sys
 import rospy
 import cv2
-#import os
-#import numpy as np
 from open_manipulator_msgs.srv import *
 
 def set_position_client(x, y, z, time):
