@@ -18,7 +18,8 @@ try:
                         "MGI -> i x y z\n" +
                         "MDG -> d q1 q2 q3 q4\n"+
                         "déplacement relatif -> r qi theta\n" + 
-                        "Ouvertur pince -> o theta\n")
+                        "Ouvertur de la pince -> o\n"+
+                        "Fermeture de la pince -> f")
         if reponse != "":
             tab_reponse = reponse.split(' ')
             if tab_reponse[0] == "p":
@@ -32,7 +33,9 @@ try:
             elif tab_reponse[0] == "r":
                 manipulator.deplacement_relatif_moteur(float(tab_reponse[2]), tab_reponse[1], 1)
             elif tab_reponse[0] == "o":
-                manipulator.ouvrir_pince(float(tab_reponse[1]), 1)
+                manipulator.ouvrir_pince(0.01, 1)
+            elif tab_reponse[0] == "f":
+                manipulator.ouvrir_pince(-0.01, 1)
             else:
                 print("Commande non reconnue")
         else:

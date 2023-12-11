@@ -11,25 +11,8 @@ class OpenManipulator :
         self.service_name_MGD = "/goal_joint_space_path"
         self.service_name_deplacement_relatif = "/goal_joint_space_path_from_present"
         self.service_name_deplacement_effecteur = "/goal_tool_control"
-
-        # Création d'un souscripteur permettant de récupérer les informations à propos des moteurs
-        #rospy.init_node("souscripteurOpenManipulateur")
-        #rospy.Subscriber("/joint_states", JointState, self.get_OpenManipulator_data)
-
-        # Variables contenant la force et la position de l'effecteur 
-        self.force_effecteur = 0
-        self.position_effecteur = 0
-        #rospy.spin()
-
     
-    def get_OpenManipulator_data(self, data):
-        """
-        Fonction de callback appelée lorsque des informations sont publiées sur le topic "/joint_states" le permettant de récupérer la force et la position de l'effecteur 
-        """
-        self.force_effecteur = data.effort[4]
-        self.position_effecteur = data.position[4]
-        
-    
+
 
     def MGI(self, x, y, z, time):
 
@@ -69,6 +52,7 @@ class OpenManipulator :
         
 
 
+
     def MGD(self, q1, q2, q3, q4, t):
 
         """
@@ -106,6 +90,7 @@ class OpenManipulator :
             print("Service call failed: %s"%e)
             return False
         
+
 
 
     def deplacement_relatif_moteur(self, angle, moteur, t):
@@ -161,13 +146,46 @@ class OpenManipulator :
             return False 
 
 
-    def ouvrir_pince(self, angle, t):
+
+
+    def controle_effecteur(self, angle, t):
 
         """
-        Fonction utilisant le service "/goal_tool_control" pour ouvrir la pince
-        Entrées :
+        Fonction utilisant le service "/goal_tool_control" pour controler la pince
+        Entrées
+            angle :
+                la coordonnée angulaire, en radians, à atteindre par le moteur contrôlant la pince. Pour ouvrir la pince, il faut envoyer un angle de 0.01 et pour la fermer un angle -0.01
             t :
-                le temps, en secondes, pour ouvrir la pince
+                le temps, en secondes, pour atteindre la coordonnée angulaire demandée
+        Sorties :
+            is_planned :
+                booleén indiquant si les coordonnées articulaire peuvent être atteintes par les moteurs 
+        """
+
+        # Attente d'une réponse du servide 
+        rospy.wait_for_service(self.service_name_deplacement_effecteur)
+        try:
+            # Création de la fonction pour appeler le service
+            effector_service = rospy.ServiceProxy(self.service_name_deplacement_effecteur, SetJointPosition)
+            # Création du message à envoyer au service
+            arg = SetJointPositionRequest()
+            # Renseignement du temps pour atteindre les coordonnées, ici imposé à une 1 seconde
+            arg.path_time = t
+            # Tableau permettant de spécifier à quel moteur s'affecte quelle coordonnée angulaire
+            arg.joint_position.joint_name = ['joint1', 'joint2', 'joint3', 'joint4', 'gripper']
+            # Ecriture de la coordonnée angulaire pour pouvoir ouvrir la pince
+            arg.joint_position.position = [0, 0, 0, 0, angle]
+            resp1 = effector_service(arg)
+            return resp1
+        except rospy.ServiceException as e:
+            print("Service call failed: %s"%e)
+            return False  
+        
+
+    def ouvrir_pince(self):
+
+        """
+        Fonction utilisant le service "/goal_tool_control" pour fermer la pince
         Sorties :
             is_planned :
                 booleén indiquant si les coordonnées articulaire peuvent être atteintes par les moteurs 
@@ -181,30 +199,13 @@ class OpenManipulator :
             # Création du message à envoyer au service
             arg = SetJointPositionRequest()
             # Renseignement du temps pour atteindre les coordonnées 
-            arg.path_time = t
+            arg.path_time = 1
             # Tableau permettant de spécifier à quel moteur s'affecte quelle coordonnée angulaire
             arg.joint_position.joint_name = ['joint1', 'joint2', 'joint3', 'joint4', 'gripper']
-            # Ecriture de la coordonnée angulaire pour pouvoir ouvrir la pince
-            arg.joint_position.position = [0, 0, 0, 0, angle]
-            resp1 = effector_service(arg)
-            return resp1
-        except rospy.ServiceException as e:
-            print("Service call failed: %s"%e)
-            return False  
-        
-
-    """  
-    def fermer_pince(self, t):
-        rospy.wait_for_service(self.service_name_deplacement_effecteur)
-        try:
-            effector_service = rospy.ServiceProxy(self.service_name_deplacement_effecteur, SetJointPosition)
-            arg = SetJointPositionRequest()
-            arg.path_time = t
-            arg.joint_position.joint_name = ['joint1', 'joint2', 'joint3', 'joint4', 'gripper']
-            arg.joint_position.position = [0, 0, 0, 0, 1]
+            # Ecriture de la coordonnée angulaire pour pouvoir fermer la pince
+            arg.joint_position.position = [0, 0, 0, 0, -0.01]
             resp1 = effector_service(arg)
             return resp1
         except rospy.ServiceException as e:
             print("Service call failed: %s"%e)
             return False 
-    """
