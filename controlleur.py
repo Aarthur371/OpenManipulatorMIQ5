@@ -23,7 +23,11 @@ try:
         if reponse != "":
             tab_reponse = reponse.split(' ')
             if tab_reponse[0] == "p":
+                cap = cv2.VideoCapture('/dev/video0', cv2.CAP_V4L)
                 ret, frame = cap.read()
+                if not ret:
+                    print("La prise de photo a échoué")
+                    continue
                 cv2.imwrite(tab_reponse[1] + '.jpg', frame)
                 print("Photo prise")
             elif tab_reponse[0] == "i":
@@ -33,9 +37,9 @@ try:
             elif tab_reponse[0] == "r":
                 manipulator.deplacement_relatif_moteur(float(tab_reponse[2]), tab_reponse[1], 1)
             elif tab_reponse[0] == "o":
-                manipulator.ouvrir_pince(0.01, 1)
+                manipulator.ouverture_pince()
             elif tab_reponse[0] == "f":
-                manipulator.ouvrir_pince(-0.01, 1)
+                manipulator.fermeture_pince()
             else:
                 print("Commande non reconnue")
         else:
