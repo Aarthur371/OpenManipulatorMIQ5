@@ -17,7 +17,8 @@ try:
         reponse = input("Prise de photo -> p nom_photo\n" +
                         "MGI -> i x y z\n" +
                         "MDG -> d q1 q2 q3 q4\n"+
-                        "déplacement relatif -> r qi theta")
+                        "déplacement relatif -> r qi theta\n" + 
+                        "Ouvertur pince -> o theta\n")
         if reponse != "":
             tab_reponse = reponse.split(' ')
             if tab_reponse[0] == "p":
@@ -29,7 +30,9 @@ try:
             elif tab_reponse[0] == "d":
                 manipulator.MGD(float(tab_reponse[1]), float(tab_reponse[2]), float(tab_reponse[3]), float(tab_reponse[4]), 1)
             elif tab_reponse[0] == "r":
-                manipulator.deplacement_relatif_moteur(float(tab_reponse[1]), tab_reponse[2], 1)
+                manipulator.deplacement_relatif_moteur(float(tab_reponse[2]), tab_reponse[1], 1)
+            elif tab_reponse[0] == "o":
+                manipulator.ouvrir_pince(float(tab_reponse[1]), 1)
             else:
                 print("Commande non reconnue")
         else:
