@@ -1,4 +1,5 @@
 import rospy
+import cv2
 from open_manipulator_msgs.srv import *
 from open_manipulator_msgs.msg import *
 
@@ -11,6 +12,26 @@ class OpenManipulator :
         self.service_name_MGD = "/goal_joint_space_path"
         self.service_name_MGD_relatif = "/goal_joint_space_path_from_present"
         self.service_name_deplacement_effecteur = "/goal_tool_control"
+
+        # open camera
+        self.cap = cv2.VideoCapture('/dev/video0', cv2.CAP_V4L)
+        self.cap.set(cv2.CAP_PROP_FRAME_WIDTH, 1920)
+        self.cap.set(cv2.CAP_PROP_FRAME_HEIGHT, 1440)
+
+    def prise_photo(self):
+        """
+        Fonction permettant de prendre une photo avec la pi caméra
+
+        Sorties:
+            frame : Photo prise par la caméra. Renvoie None si la prise de photo a échouté
+        """
+        # On appelle 5 fois la fonction "read" parce que sinon la photo ne s'actualise pas :)
+        self.cap.read()
+        self.cap.read()
+        self.cap.read()
+        self.cap.read()
+        ret, frame = self.cap.read()
+        return frame if ret else None
     
 
 
@@ -197,6 +218,10 @@ class OpenManipulator :
         except rospy.ServiceException as e:
             print("Service call failed: %s"%e)
             return False  
+        
+    def goto_position_photo(self):
+        "Fonction allant à la position permettant de prendre une photo"
+        self.MGD(0, -0.8, 0.13, 1.95, 2)
         
     def ouverture_pince(self):
         "Fonction permettant d'ouvrir la pince"

@@ -19,17 +19,15 @@ try:
                         "MDG -> d q1 q2 q3 q4\n"+
                         "déplacement relatif -> r qi theta\n" + 
                         "Ouvertur de la pince -> o\n"+
-                        "Fermeture de la pince -> f")
+                        "Fermeture de la pince -> f\n")
         if reponse != "":
             tab_reponse = reponse.split(' ')
             if tab_reponse[0] == "p":
-                cap = cv2.VideoCapture('/dev/video0', cv2.CAP_V4L)
-                ret, frame = cap.read()
-                if not ret:
+                frame = manipulator.prise_photo()
+                if frame is None:
                     print("La prise de photo a échoué")
                     continue
                 cv2.imwrite(tab_reponse[1] + '.jpg', frame)
-                print("Photo prise")
             elif tab_reponse[0] == "i":
                 manipulator.MGI(float(tab_reponse[1])/100, float(tab_reponse[2])/100, float(tab_reponse[3])/100, 1)
             elif tab_reponse[0] == "d":
