@@ -86,8 +86,8 @@ class OpenManipulator :
         k2 = self.a3*math.sin(q3) + self.a2*math.sin(q3)
         q2 = math.atan2(k2*(z + self.a4 - self.d1) - k1*math.sqrt(x**2+y**2), 
                         k1*(z + self.a4 - self.d1) + k2*math.sqrt(x**2+y**2))
-        q4 = -math.pi/3  # math.pi/2 - q2 - q3
-        print("{0} {1} {2} {3}".format(q1, q2, q3, q4))
+        q4 = math.pi/2 - q2 - q3
+        #print("{0} {1} {2} {3}".format(q1, q2, q3, q4))
         self.MGD(q1, q2, q3, q4, t)
 
 
