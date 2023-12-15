@@ -82,9 +82,10 @@ class OpenManipulator :
     def MGI_DH(self, x, y, z, t):
         q1 = math.atan2(y, x)
         q3 = math.acos(((z + self.a4 - self.d1)**2 + x**2 + y**2 - self.a2**2 - self.a3**2) / (2*self.a2*self.a3)) - self.phi
-        k1 = self.a2 + self.a4*math.sin(q3)
-        k2 = self.a3*math.cos(q3)
-        q2 = math.atan2(k1*(z + self.a4 - self.d1) - k2*math.sqrt(x**2+y**2), k2*(z + self.a4 - self.d1) + k1*math.sqrt(x**2+y**2)) + self.phi
+        k1 = self.a2*math.cos(self.phi) + self.a3*math.cos(self.phi)
+        k2 = self.a3*math.sin(q3) + self.a2*math.sin(q3)
+        q2 = math.atan2(k2*(z + self.a4 - self.d1) - k1*math.sqrt(x**2+y**2), 
+                        k1*(z + self.a4 - self.d1) + k2*math.sqrt(x**2+y**2))
         q4 = -math.pi/3  # math.pi/2 - q2 - q3
         print("{0} {1} {2} {3}".format(q1, q2, q3, q4))
         self.MGD(q1, q2, q3, q4, t)
