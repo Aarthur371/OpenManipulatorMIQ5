@@ -1,9 +1,16 @@
 import rospy
 import cv2
+import math
 from open_manipulator_msgs.srv import *
 from open_manipulator_msgs.msg import *
 
 class OpenManipulator :
+
+    d1 = 77
+    a2 = 130
+    a3 = 124
+    a4 = 126
+    phi = math.atan(128/24)
 
     def __init__(self):
 
@@ -17,6 +24,7 @@ class OpenManipulator :
         self.cap = cv2.VideoCapture('/dev/video0', cv2.CAP_V4L)
         self.cap.set(cv2.CAP_PROP_FRAME_WIDTH, 1920)
         self.cap.set(cv2.CAP_PROP_FRAME_HEIGHT, 1440)
+
 
     def prise_photo(self):
         """
@@ -70,14 +78,23 @@ class OpenManipulator :
         except rospy.ServiceException as e:
             print("Service call failed: %s"%e)
             return False
-        
+    
+    def MGI_DH(self, x, y, z, t):
+        q1 = math.atan2(y, x)
+        q3 = math.acos(((z + self.a4 - self.d1)**2 + x**2 + y**2 - self.a2**2 - self.a3**2) / (2*self.a2*self.a3)) - self.phi
+        k1 = self.a2 + self.a4*math.sin(q3)
+        k2 = self.a3*math.cos(q3)
+        q2 = math.atan2(k1*(z + self.a4 - self.d1) - k2*math.sqrt(x**2+y**2), k2*(z + self.a4 - self.d1) + k1*math.sqrt(x**2+y**2)) + self.phi
+        q4 = -math.pi/3  # math.pi/2 - q2 - q3
+        print("{0} {1} {2} {3}".format(q1, q2, q3, q4))
+        self.MGD(q1, q2, q3, q4, t)
 
 
 
     def MGD(self, q1, q2, q3, q4, t):
 
         """
-        Fonction utilisant le service "/goal_joint_space_path" permettant d'utiliser le MGD du robot
+        Fonction utilisant le service "/goal_joint_space_path" permettant d'utiliser le clMGD du robot
         Entrées :
             q1, q2, q3, q4 :
                 le tableau des coordonnées angulaires, en radians, à atteindre les coordonnées angulaires sont numérotés par ordre croissant à partir de la base du robot

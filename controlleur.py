@@ -29,7 +29,7 @@ try:
                     continue
                 cv2.imwrite(tab_reponse[1] + '.jpg', frame)
             elif tab_reponse[0] == "i":
-                manipulator.MGI(float(tab_reponse[1])/100, float(tab_reponse[2])/100, float(tab_reponse[3])/100, 1)
+                manipulator.MGI_DH(float(tab_reponse[1]), float(tab_reponse[2]), float(tab_reponse[3]), 1)
             elif tab_reponse[0] == "d":
                 manipulator.MGD(float(tab_reponse[1]), float(tab_reponse[2]), float(tab_reponse[3]), float(tab_reponse[4]), 1)
             elif tab_reponse[0] == "r":
