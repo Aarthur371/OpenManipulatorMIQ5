@@ -3,6 +3,7 @@ import cv2
 import math
 from open_manipulator_msgs.srv import *
 from open_manipulator_msgs.msg import *
+from time import sleep
 
 class OpenManipulator :
 
@@ -12,13 +13,13 @@ class OpenManipulator :
     a4 = 126+35
     phi = math.atan2(128, 24)
 
-    def __init__(self):
+    # Liste des noms des services pour utiliser les fonctions de cette classe
+    service_name_MGI = "/goal_task_space_path"
+    service_name_MGD = "/goal_joint_space_path"
+    service_name_MGD_relatif = "/goal_joint_space_path_from_present"
+    service_name_deplacement_effecteur = "/goal_tool_control"
 
-        # Liste des noms des services pour utiliser les fonctions de cette classe
-        self.service_name_MGI = "/goal_task_space_path"#_position_only"i
-        self.service_name_MGD = "/goal_joint_space_path"
-        self.service_name_MGD_relatif = "/goal_joint_space_path_from_present"
-        self.service_name_deplacement_effecteur = "/goal_tool_control"
+    def __init__(self):
 
         # open camera
         self.cap = cv2.VideoCapture('/dev/video0', cv2.CAP_V4L)
@@ -41,8 +42,6 @@ class OpenManipulator :
         ret, frame = self.cap.read()
         return frame if ret else None
     
-
-
     def MGI(self, x, y, z, time):
 
         """
@@ -91,6 +90,7 @@ class OpenManipulator :
         Sorties :
             is_planned = booleén indiquant si le robot peut se rendre à cette position 
         """
+        print("Position à atteindre : {0:.3f} {1:.3f} {2:.3f}".format(x, y, z))
 
         q1 = math.atan2(y, x)
         try:
@@ -101,8 +101,9 @@ class OpenManipulator :
             k2 = self.a2*math.sin(self.phi) - self.a3*math.sin(q3)
             q2 = math.atan2(k2*X1 + Y1*k1, k1*X1 - k2*Y1)
             q4 = math.pi/2 - q2 - q3
-            print("{0:.3f} {1:.3f} {2:.3f} {3:.3f}".format(q1*180/math.pi, q2*180/math.pi, q3*180/math.pi, q4*180/math.pi))
+            #print("{0:.3f} {1:.3f} {2:.3f} {3:.3f}".format(q1*180/math.pi, q2*180/math.pi, q3*180/math.pi, q4*180/math.pi))
             self.MGD(q1, q2, q3, q4, t)
+            sleep(t)
         except ValueError:
             print("Position inatteignable")
 
@@ -244,10 +245,11 @@ class OpenManipulator :
             # Renseignement du temps pour atteindre les coordonnées, ici imposé à une 1 seconde
             arg.path_time = t
             # Tableau permettant de spécifier à quel moteur s'affecte quelle coordonnée angulaire
-            arg.joint_position.joint_name = ['joint1', 'joint2', 'joint3', 'joint4', 'gripper']
+            arg.joint_position.joint_name = ['gripper']
             # Ecriture de la coordonnée angulaire pour pouvoir ouvrir la pince
-            arg.joint_position.position = [0, 0, 0, 0, angle]
+            arg.joint_position.position = [angle]
             resp1 = effector_service(arg)
+            sleep(t)
             return resp1
         except rospy.ServiceException as e:
             print("Service call failed: %s"%e)
