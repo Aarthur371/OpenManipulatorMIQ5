@@ -17,7 +17,8 @@ try:
         reponse = input("Prise de photo -> p nom_photo\n" +
                         "MGI -> i x y z\n" +
                         "MDG -> d q1 q2 q3 q4\n"+
-                        "déplacement relatif -> r qi theta\n" + 
+                        "Déplacement relatif -> r qi theta\n" + 
+                        "Deplacement position de prise de photo -> z\n"
                         "Ouvertur de la pince -> o\n"+
                         "Fermeture de la pince -> f\n")
         if reponse != "":
@@ -29,7 +30,7 @@ try:
                     continue
                 cv2.imwrite(tab_reponse[1] + '.jpg', frame)
             elif tab_reponse[0] == "i":
-                manipulator.MGI_DH(float(tab_reponse[1]), float(tab_reponse[2]), float(tab_reponse[3]), 1)
+                manipulator.MGI_DH(float(tab_reponse[1]), float(tab_reponse[2]), float(tab_reponse[3]), 5)
             elif tab_reponse[0] == "d":
                 manipulator.MGD(float(tab_reponse[1]), float(tab_reponse[2]), float(tab_reponse[3]), float(tab_reponse[4]), 1)
             elif tab_reponse[0] == "r":
@@ -38,6 +39,8 @@ try:
                 manipulator.ouverture_pince()
             elif tab_reponse[0] == "f":
                 manipulator.fermeture_pince()
+            elif tab_reponse[0] == "z":
+                manipulator.goto_position_photo()
             else:
                 print("Commande non reconnue")
         else:
