@@ -39,7 +39,9 @@ class OpenManipulator :
         self.cap.read()
         self.cap.read()
         self.cap.read()
+        # Prise de la photo et son inversion pour correspondre à la position support
         ret, frame = self.cap.read()
+        frame = cv2.flip(frame, -1)
         return frame if ret else None
     
     def MGI(self, x, y, z, time):

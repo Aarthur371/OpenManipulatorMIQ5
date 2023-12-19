@@ -80,9 +80,13 @@ def getContoursNoDisplay(img,imgContour,th,Lcam,squareDim):
             pos = realPosition(cX, cY, 0, Lcam, squareDim)
             objectPositions[i, 0] = pos[0]
             objectPositions[i, 1] = pos[1]
+            objectPositions[i, 2] = np.argmax(imgContour[cY, cX, :])
             i = i+1     
 
     return objectPositions
+
+
+
 
 def CalibrationPosition(imgCalib, CHECKERBOARD, squareDim):
     
@@ -90,7 +94,7 @@ def CalibrationPosition(imgCalib, CHECKERBOARD, squareDim):
     objp[0,:,:2] = np.mgrid[0:CHECKERBOARD[0], 0:CHECKERBOARD[1]].T.reshape(-1, 2)
     
     # Charger paramètres intrinsèques
-    with np.load("./calibration/calibration.npz") as X:
+    with np.load("calibration.npz") as X:
         mtx, dist = [X[i] for i in ('mtx','dist')]
     
     Lcam = getLcam(imgCalib, CHECKERBOARD, objp, mtx, dist)
@@ -98,11 +102,10 @@ def CalibrationPosition(imgCalib, CHECKERBOARD, squareDim):
     
     return [Lcam, origin]
 
-def GetObjectsPositions(img, opening, closing, blur, threshold, minSize, Lcam, origin, CHECKERBOARD, squareDim):
-    
-    imgHSV = cv2.cvtColor(img, cv2.COLOR_BGR2HSV)
+def GetObjectsPositions(img, opening, closing, blur, threshold, minSize, Lcam, squareDim):
+
     # Filtrage pour utilisation
-    imgFiltered = advancedThreshold(imgHSV, blur*2+1, threshold, closing*2+1, opening*2+1)    # IMPORTER CA
+    imgFiltered = advancedThreshold(img, blur*2+1, threshold, closing*2+1, opening*2+1)    # IMPORTER CA
     # Detection du contour
     imgCanny = cv2.Canny(imgFiltered, 4, 4)
     imgContour = img.copy()
