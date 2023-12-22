@@ -26,6 +26,10 @@ class OpenManipulator :
         self.cap.set(cv2.CAP_PROP_FRAME_WIDTH, 1920)
         self.cap.set(cv2.CAP_PROP_FRAME_HEIGHT, 1440)
 
+    def __del__(self):
+        # Libération du flux caméra
+        self.cap.release()
+
 
     def prise_photo(self):
         """
@@ -257,14 +261,14 @@ class OpenManipulator :
             print("Service call failed: %s"%e)
             return False  
         
-    def goto_position_photo(self):
+    def goto_position_photo(self, t):
         "Fonction allant à la position permettant de prendre une photo"
-        self.MGD(0, -0.8, 0.13, 1.95, 2)
+        self.MGD(0, -0.8, 0.13, 1.95, t)
         
-    def ouverture_pince(self):
+    def ouverture_pince(self, t):
         "Fonction permettant d'ouvrir la pince"
-        self.controle_effecteur(0.01, 1)
+        self.controle_effecteur(0.01, t)
 
-    def fermeture_pince(self):
+    def fermeture_pince(self, t):
         "Fonction permettant de fermer la pince"
-        self.controle_effecteur(-0.01, 1)
+        self.controle_effecteur(-0.01, t)
