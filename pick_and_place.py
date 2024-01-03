@@ -29,7 +29,6 @@ manipulator.goto_position_photo(2)
 input("Retirez les kaplas et appuyez sur entrée")
 # Prise de la photo de calibration
 imgCalib = manipulator.prise_photo()
-#cv2.imwrite("Calib.jpg", imgCalib)
 # Récupération des paramètres extrinsèques
 [Lcam, origin] = CalibrationPosition(imgCalib, CHECKERBOARD, squareDim)
 
@@ -50,25 +49,42 @@ try:
         manipulator.ouverture_pince(0.5)
 
         for position in objectsPositions:
-            
+            # Récupération des coordonnées de l'objet dans le repère caméra
             X_Rcam = np.array([position[0], position[1], 0])
+            # Conversion des coordonnées dans le repère du robot
             X_Rrobot = np.matmul(M, np.concatenate((X_Rcam,1), axis=None))
+            # Déplacement au dessus de l'objet 
             manipulator.MGI_DH(X_Rrobot[0], X_Rrobot[1], offsetSaisie, 1)
+            # Descente jusqu'à la position de saisie
             manipulator.MGI_DH(X_Rrobot[0], X_Rrobot[1], hauteurSaisie, 0.5)
+            # Prise de l'objet
             manipulator.fermeture_pince(1)
+            # Remontée de l'objet
             manipulator.MGI_DH(X_Rrobot[0], X_Rrobot[1], offsetSaisie, 0.5)
 
+            # Si l'objet est vert
             if position[2] == 0:
+                # Déplacement du robot au dessus la zone de dépôt pour kapla vert
                 manipulator.MGI_DH(positionDepotBleu[0], positionDepotBleu[1], hauteurSaisie+taille_kapla*nb_vert+offsetSaisie, 1)
+                # Descente du kapla
                 manipulator.MGI_DH(positionDepotBleu[0], positionDepotBleu[1], hauteurSaisie+taille_kapla*nb_vert, 0.5)
+                # Laché du kaple
                 manipulator.ouverture_pince(1)
+                # Remontée du robot
                 manipulator.MGI_DH(positionDepotBleu[0], positionDepotBleu[1], hauteurSaisie+taille_kapla*nb_vert+offsetSaisie, 0.5)
+                # Ajout du compteur du nombre de kaplas verts
                 nb_vert += 1
+            # Si l'objet n'est pas vert
             else:
+                # Déplacement du robot au dessus la zone de dépôt pour kapla non vert
                 manipulator.MGI_DH(positionDepotAutre[0], positionDepotAutre[1], hauteurSaisie+taille_kapla*nb_non_vert+offsetSaisie, 1)
+                # Descente du kapla
                 manipulator.MGI_DH(positionDepotAutre[0], positionDepotAutre[1], hauteurSaisie+taille_kapla*nb_non_vert, 0.5)
+                # Lachée du kaple
                 manipulator.ouverture_pince(1)
+                # Remontée du robot
                 manipulator.MGI_DH(positionDepotAutre[0], positionDepotAutre[1], hauteurSaisie+taille_kapla*nb_non_vert+offsetSaisie, 0.5)
+                # Ajout du compteur du nombre de kaplas non verts
                 nb_non_vert += 1
 
             # Déplacement du robot jusqu'à la position de prise de photo
