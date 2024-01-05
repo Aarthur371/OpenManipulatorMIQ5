@@ -38,7 +38,7 @@ class OpenManipulator :
         Sorties:
             frame : Photo prise par la caméra. Renvoie None si la prise de photo a échouté
         """
-        # On appelle 5 fois la fonction "read" parce que sinon la photo ne s'actualise pas :)
+        # On appelle 5 fois la fonction "read" parce que sinon la photo ne s'actualise pas, c'est complètement con, je sais pas pourquoi mdr
         self.cap.read()
         self.cap.read()
         self.cap.read()
@@ -87,16 +87,14 @@ class OpenManipulator :
     def MGI_DH(self, x, y, z, t):
 
         """
-        Fonction utilisant le service "/goal_task_space_path_position_only" permettant d'utiliser le MGI du robot
+        Calcul des valeurs angulaires des moteurs pour atteindre la position x,y,z grâce au paramètrage de DH.
+        Pour l'orientation de la pince, nous l'avons forcée à pointer vers le sol.
         Entrées :
             x,y,z :
-                coordoonées, en mètres, à atteindre par l'effecteur dans le repère du robot
+                coordoonées, en millimètres, à atteindre par l'effecteur dans le repère du robot
             t :
                 temps, en secondes, pour atteindre la position 
-        Sorties :
-            is_planned = booleén indiquant si le robot peut se rendre à cette position 
         """
-        print("Position à atteindre : {0:.3f} {1:.3f} {2:.3f}".format(x, y, z))
 
         q1 = math.atan2(y, x)
         try:
@@ -107,7 +105,6 @@ class OpenManipulator :
             k2 = self.a2*math.sin(self.phi) - self.a3*math.sin(q3)
             q2 = math.atan2(k2*X1 + Y1*k1, k1*X1 - k2*Y1)
             q4 = math.pi/2 - q2 - q3
-            #print("{0:.3f} {1:.3f} {2:.3f} {3:.3f}".format(q1*180/math.pi, q2*180/math.pi, q3*180/math.pi, q4*180/math.pi))
             self.MGD(q1, q2, q3, q4, t)
             sleep(t)
         except ValueError:
